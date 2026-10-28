@@ -6,6 +6,8 @@ _I am a sophomore at UT San Antonio majoring in Cybersecurity. I love live music
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white)
 ## 🎉 Interests
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
