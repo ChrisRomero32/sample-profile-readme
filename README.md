@@ -17,7 +17,7 @@ _I am a sophomore at UT San Antonio majoring in Cybersecurity. I love live music
 ![Research](https://img.shields.io/badge/Research-B02A2A?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMC41IDJhOC41IDguNSAwIDEgMSAwIDE3IDguNSA4LjUgMCAwIDEgMC0xN3ptMCAyLjRhNi4xIDYuMSAwIDEgMCAwIDEyLjIgNi4xIDYuMSAwIDAgMCAwLTEyLjJ6TTYuOSA5LjNoNy4ydjEuOEg2LjlWOS4zem0wIDMuMmg0Ljh2MS44SDYuOXYtMS44ek0xNy4yIDE1LjZsNC42IDQuNi0xLjYgMS42LTQuNi00LjYgMS42LTEuNnoiLz48L3N2Zz4=&logoColor=white)
 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<ChrisRomero32>)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ChrisRomero32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
 _"Just Keep Livin' - Matthew McConaughey"_
