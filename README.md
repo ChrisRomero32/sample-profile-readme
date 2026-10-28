@@ -18,6 +18,6 @@ _I am a sophomore at UT San Antonio majoring in Cybersecurity. I love live music
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ChrisRomero32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-romero-389495250/)
 
 _"Just Keep Livin' - Matthew McConaughey"_
