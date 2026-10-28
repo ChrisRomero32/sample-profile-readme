@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *Chris Romero*
+## 🙋‍♂️ Hi, I'm *Chris Romero*
 ##  About Me
 _I am a sophomore at UT San Antonio majoring in Cybersecurity. I love live music, and spending time with loved ones. Fun Fact: I have been a lifeguard at Walt Disney World!_
 ## ⚒️ Skills
